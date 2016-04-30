@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="fasilitas_textview">fasilitas</string>
+    <string name="lokasi_textview">lokasi</string>
+    <string name="detail">detail restoran</string>
+
+
+
+</resources>
